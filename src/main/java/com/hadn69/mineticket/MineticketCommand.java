@@ -1,4 +1,4 @@
-package com.schlarp.mineticket;
+package com.hadn69.mineticket;
 
 import java.util.ArrayList;
 import java.util.Arrays;

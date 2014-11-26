@@ -1,4 +1,4 @@
-package com.schlarp.mineticket;
+package com.hadn69.mineticket;
 
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.util.ChatMessageComponent;

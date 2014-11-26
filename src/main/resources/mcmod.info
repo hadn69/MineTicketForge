@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mineTicket",
+  "name": "Mine Ticket",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hadn69"],
+  "credits": "Schlarpc for making Mine Ticket for 1.6.4.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

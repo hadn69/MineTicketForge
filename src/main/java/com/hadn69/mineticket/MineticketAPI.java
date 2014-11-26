@@ -1,4 +1,4 @@
-package com.schlarp.mineticket;
+package com.hadn69.mineticket;
 
 import static argo.jdom.JsonNodeFactories.field;
 import static argo.jdom.JsonNodeFactories.object;
@@ -11,7 +11,6 @@ import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.net.URLConnection;
 import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.Map;
